@@ -26,6 +26,6 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 # Authors
 ## Atharv Davale
 <ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
+<li>Github:https://github.com/atharvdavale65</li>
 
 </ul>
